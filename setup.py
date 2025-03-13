@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "MLflow-DVC"
 AUTHOR_USER_NAME = "NourBesrour"
-SRC_REPO = "sales-forecasting"
+SRC_REPO = "sales_forecasting"
 AUTHOR_EMAIL = "nourbesrour29@gmail.com"
 
 
